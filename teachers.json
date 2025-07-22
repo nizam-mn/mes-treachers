@@ -97,7 +97,7 @@
       }
     ],
     "connection": {
-      "mail": "mailto:badharu@mesce.ac.in",
+      "mail": "badharu@mesce.ac.in",
       "linkedin": "https://in.linkedin.com/in/badharudheen-pulikkal-35a40b101",
       "whatsapp": "https://wa.me/919605151823",
       "youtube": "https://www.youtube.com/@CodeLearner123",
@@ -108,20 +108,19 @@
 
   {
     "id": "tch002",
-    "profile": "https://mes.linways.com/staffdocs/MES/MES-829/images/myphoto1901581522.jpg",
-    "tname": "Mohammed Nizam",
+    "profile": "https://mes.linways.com/staffdocs/MES/evduar464f.jpg",
+    "tname": "FAHMA P",
     "designation": "Asst. Professor",
     "dept": "Computer Science & Engineering",
     "education": [
-      "Ph.D Pursuing (SRM University, Chennai)",
-      "M.Tech in Computer Science and Engineering with Information Security as Specialization from NIT Calicut",
-      "B.Tech in Information Technology from MES College of Engineering, Kuttippuram.",
-      "CCNA Certified."
+      "MTECH in Computer Science and Engineering -MES College Of Engineering Kuttipuram",
+      "BTECH in Information Technology - Calicut University Institute of Engineering and Technology"
     ],
     "interst": [
-      "Web programming and Application Development.",
-      "Computer Networks and Distributed Systems.",
-      "Computer Programming."
+      "Natural Language Processing",
+      "Machine Leaning",
+      "Cyber security",
+      "Programming languages- C,python,Java"
     ],
     "courses": [
       {
@@ -204,11 +203,11 @@
       }
     ],
     "connection": {
-      "mail": "mailto:badharu@mesce.ac.in",
-      "linkedin": "https://in.linkedin.com/in/badharudheen-pulikkal-35a40b101",
-      "whatsapp": "https://wa.me/919605151823",
-      "youtube": "https://www.youtube.com/@CodeLearner123",
-      "instagram": "https://www.instagram.com/badharu_p/",
+      "mail": "fahmafamzin97@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/fahma-p-857004237/",
+      "whatsapp": "https://wa.me/919633712484",
+      "youtube": "",
+      "instagram": "https://www.instagram.com/fahmaah__/",
       "facebook": ""
     }
   }
