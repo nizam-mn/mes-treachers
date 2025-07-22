@@ -1,0 +1,215 @@
+[
+  {
+    "id": "tch001",
+    "profile": "https://mes.linways.com/staffdocs/MES/MES-829/images/myphoto1901581522.jpg",
+    "tname": "BADHARUDHEEN P",
+    "designation": "Asst. Professor",
+    "dept": "Computer Science & Engineering",
+    "education": [
+      "Ph.D Pursuing (SRM University, Chennai)",
+      "M.Tech in Computer Science and Engineering with Information Security as Specialization from NIT Calicut",
+      "B.Tech in Information Technology from MES College of Engineering, Kuttippuram.",
+      "CCNA Certified."
+    ],
+    "interst": [
+      "Web programming and Application Development.",
+      "Computer Networks and Distributed Systems.",
+      "Computer Programming."
+    ],
+    "courses": [
+      {
+        "name": "C programming",
+        "code": "CST101",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Database Management System",
+        "code": "CST203",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Data Structures",
+        "code": "CST201",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Object Oriented Programming",
+        "code": "CST205",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Web Technology and Application Development",
+        "code": "CST305",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Operating System",
+        "code": "CST206",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      }
+    ],
+    "connection": {
+      "mail": "mailto:badharu@mesce.ac.in",
+      "linkedin": "https://in.linkedin.com/in/badharudheen-pulikkal-35a40b101",
+      "whatsapp": "https://wa.me/919605151823",
+      "youtube": "https://www.youtube.com/@CodeLearner123",
+      "instagram": "https://www.instagram.com/badharu_p/",
+      "facebook": ""
+    }
+  },
+
+  {
+    "id": "tch002",
+    "profile": "https://mes.linways.com/staffdocs/MES/MES-829/images/myphoto1901581522.jpg",
+    "tname": "Mohammed Nizam",
+    "designation": "Asst. Professor",
+    "dept": "Computer Science & Engineering",
+    "education": [
+      "Ph.D Pursuing (SRM University, Chennai)",
+      "M.Tech in Computer Science and Engineering with Information Security as Specialization from NIT Calicut",
+      "B.Tech in Information Technology from MES College of Engineering, Kuttippuram.",
+      "CCNA Certified."
+    ],
+    "interst": [
+      "Web programming and Application Development.",
+      "Computer Networks and Distributed Systems.",
+      "Computer Programming."
+    ],
+    "courses": [
+      {
+        "name": "C programming",
+        "code": "CST101",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Database Management System",
+        "code": "CST203",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Data Structures",
+        "code": "CST201",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Object Oriented Programming",
+        "code": "CST205",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Web Technology and Application Development",
+        "code": "CST305",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      },
+      {
+        "name": "Operating System",
+        "code": "CST206",
+        "syllabus": "",
+        "notes": [
+          "module 1 link",
+          "module 2 link",
+          "module 3 link",
+          "module 4 link",
+          "module 5 link"
+        ],
+        "pyqs": ""
+      }
+    ],
+    "connection": {
+      "mail": "mailto:badharu@mesce.ac.in",
+      "linkedin": "https://in.linkedin.com/in/badharudheen-pulikkal-35a40b101",
+      "whatsapp": "https://wa.me/919605151823",
+      "youtube": "https://www.youtube.com/@CodeLearner123",
+      "instagram": "https://www.instagram.com/badharu_p/",
+      "facebook": ""
+    }
+  }
+]
