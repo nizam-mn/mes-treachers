@@ -1,6 +1,7 @@
 [
   {
     "id": "tch001",
+    "headerColor": "#000813",
     "profile": "https://mes.linways.com/staffdocs/MES/MES-829/images/myphoto1901581522.jpg",
     "tname": "BADHARUDHEEN P",
     "designation": "Asst. Professor",
@@ -108,6 +109,7 @@
 
   {
     "id": "tch002",
+    "headerColor" : "#87001e",
     "profile": "https://mes.linways.com/staffdocs/MES/evduar464f.jpg",
     "tname": "FAHMA P",
     "designation": "Asst. Professor",
